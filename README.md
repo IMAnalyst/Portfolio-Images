@@ -2,14 +2,15 @@
 
 **Background** 
 
-I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham Trent Univeristy and achieved a 1st Class Honours in BSC Visual Effects Production Technology. I have decided to make a career switch to Data Analytics. 
+I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham Trent Univeristy and achieved a 1st Class Honours in BSC Visual Effects Production Technology. I have decided to make a career switch to Data Analytics. In order to do so I have completed a Level 3 Data Bootcamp at LeepTalent as well as self-learning, such as online tutorials and webinars. 
 
  **Software Used** 
  
 - **Power BI** 
-- SQL
+- SQL / My SQL Workbench
 - Excel
 - Tableau
+- Python in Google Colab
 
 ## What I do
 - Data Cleaning and Refinments
@@ -50,7 +51,7 @@ Using an extensive set of raw data, I was able to create a more succint table th
 Insights and Conclusions
  
 
-![Alt text](https://github.com/IMAnalyst/My_Data_Portfolio/blob/main/gapminder_dashboard.png)
+(https://github.com/IMAnalyst/My_Data_Portfolio/blob/main/gapminder_dashboard.png)
 
 
 ## Power BI
