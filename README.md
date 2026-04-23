@@ -17,6 +17,7 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 - Creating visualisations
 - Problem solving and Strategising
 
+## Why is Data Important
 
 ## Excel - Data Cleaning
 **Analysis of Bike Sales** 
@@ -39,7 +40,7 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 -  Environmental Factors, countries with higher populations produce more greenhouse gases. A lot of goverments encourage cycling to work schemes to reduce the production of greenhouse gases/carbon footprints.
 -  Important thing to consider, the age ranges are not the same, Adults has a greater age range (29) compared to Youth (25) and Young Adults (9)
 
-**Purpose and Use**
+**Practical Application**
 
 - The company can use these insights to help shape marketing strategies for lower age ranges (Youth)
 - Highlights potential customers that sales can be improved
@@ -50,18 +51,25 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below. 
 
 **Project 1: Spotify** 
+
 In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders at a company e.g Sony Music. Using a tableau I created a dashboard of visualisations based on the data.
 
 ![Alt text](spotify_dashboard.png)
+A dashboard to showcase Spotify Insights.
 
 Insights and Conclusions
 - 
+
+**Practical Application**
 
 **Project 2: Global Health Insights** 
 
 Using an extensive set of raw data, I was able to create a more succint table that represents the same data using a Pivot Table. 
 
 Insights and Conclusions
+- Drake was the most popular artist on Spotify, according to research Spotify is the global leader in music streaming with over 713 million users and 31.7% market share as of early 2026. So essentially drake is the most streamed artist in the world
+- This concides with the most popular genre, Drakes music is classed as Hip Hop/Pop Rap, his music contributes to the Pop genre
+- Acapella is the least popular genre, potential reason for this, live performances can be found more on Youtube, such as NPR Tiny Desk, VevoLive, Coachella. It is rare that these peformances get put on streaming platforms due to music rights (copyrights)
  
 
 ![Alt text](gapminder_dashboard.png)
