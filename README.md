@@ -23,7 +23,9 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 In this project, I was tasked with drawing conclusions from raw data to provide insights into Bike Sales. When given raw data, it is important to undertake the processes of a Data Analyst. Processes such as data cleaning by table formatting, standardisation of formats and filtering outliers. These all aid in validating and verifying the data set. Datasets can be long and extensive, and this is where Pivot Tables are vital. Pivot table allow analysts to create condesed tables that can be easily modified. The image below, shows the pivot table I created from the dataset. 
 
 ![Alt text](bikesalespivotchart.png)
-A pivot table that shows Bike Sales accross Age-Groups and Countries. 
+A pivot table that shows Bike Sales accross Age-Groups and Countries.
+
+A powerful tool in excel is the ability to create visualisations from Pivot Tables. Using this pivot table, I created a Bar Chart to summarise the Bike Sales. This is a more streamlined way of viewing the data, allowing the viewer to quickly compare the categories. 
 
 **Summary Bar Chart**
 
