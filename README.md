@@ -58,18 +58,23 @@ In this project, I was presented with the task of creating visualisation dashboa
 A dashboard to showcase Spotify Insights.
 
 Insights and Conclusions
-- 
+- Drake was the most popular artist on Spotify, according to research Spotify is the global leader in music streaming with over 713 million users and 31.7% market share as of early 2026. So essentially drake is the most streamed artist in the world
+- This concides with the most popular genre, Drakes music is classed as Hip Hop/Pop Rap, his music contributes to the Pop genre
+- Acapella is the least popular genre, potential reason for this, live performances can be found more on Youtube, such as NPR Tiny Desk, VevoLive, Coachella. It is rare that these peformances get put on streaming platforms due to music rights (copyrights)
 
 **Practical Application**
+Example: Simon Cowell
+- Simon Cowell is a revered music executive and talent scout. For him these insights are useful because he develops artists/bands to succeed. Knowing what the most popular music genres allow him to tailor his artists to appeal to target audiences
+- Example: One directions highest popularity was between 2013-2014. According to research n 2013-2014, pop and rock dominated overall music sales, but the landscape was shifting rapidly. Rock (34.8%) led in overall album and digital sales in 2013, while pop/top-40 was the biggest genre globally
+- One Directions music was a blend of Pop and Rock Music. 
+
 
 **Project 2: Global Health Insights** 
 
 Using an extensive set of raw data, I was able to create a more succint table that represents the same data using a Pivot Table. 
 
 Insights and Conclusions
-- Drake was the most popular artist on Spotify, according to research Spotify is the global leader in music streaming with over 713 million users and 31.7% market share as of early 2026. So essentially drake is the most streamed artist in the world
-- This concides with the most popular genre, Drakes music is classed as Hip Hop/Pop Rap, his music contributes to the Pop genre
-- Acapella is the least popular genre, potential reason for this, live performances can be found more on Youtube, such as NPR Tiny Desk, VevoLive, Coachella. It is rare that these peformances get put on streaming platforms due to music rights (copyrights)
+
  
 
 ![Alt text](gapminder_dashboard.png)
