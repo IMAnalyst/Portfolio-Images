@@ -48,7 +48,9 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 
 ## Tableau - Data Visualising 
 
-Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below. 
+Tableau is an amazing tool for data visualisation because of its interactivity, visualisations are created using a user friendly drag and drop interface. This was the perfect software to use after excel because data terminology such as fields and records are all important here. I believe my expertise from VFX shown through here, such as colour theory and composition. Dashboards are a great way of showcasing multiple visualisations. Hence why, Tableau contains a plethora of visulisations such as the common bar chart, pie chart and scatter plot. An more unique visualisations such as the world map, which is shown below.
+
+![Alt text](GeographofLifeexpectancyaroundtheworld.png)
 
 **Project 1: Spotify** 
 
@@ -74,16 +76,14 @@ Example: One Direction
 
 In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
+![Alt text](gapminder_dashboard.png)
+A dashboard to Global Health Insights.
+
 Insights and Conclusions
 - Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
 - Japan have a higher much life expectancy trend that other countries, what is the lifestyle of a average Japanese person, what could the NHS take from their lifestyle and promote it in the UK, such as healthier eating, exercise
 - BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
 - Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients – need more staff to keep up with demands of population growth
- 
-
-![Alt text](gapminder_dashboard.png)
-
-![Alt text](GeographofLifeexpectancyaroundtheworld.png)
 
 
 ## Power BI - Data Modelling
