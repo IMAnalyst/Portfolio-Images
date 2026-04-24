@@ -54,10 +54,10 @@ Tableau is an amazing tool for data visualisation because of its interactivity, 
 
 **Project 1: Spotify** 
 
-In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders at a company e.g Sony Music. Using a tableau I created a dashboard of visualisations based on the data.
+In this project, I was presented with the task of creating visualisation dashboards to present to potential stakeholders at a company e.g Sony Music. Using a tableau I created a dashboard of visualisations based on the Spotifty dataset.
 
 ![Alt text](spotify_dashboard.png)
-A dashboard to showcase Spotify Insights.
+A dashboard to show Spotify insights.
 
 Insights and Conclusions
 - Drake was the most popular artist on Spotify, according to research Spotify is the global leader in music streaming with over 713 million users and 31.7% market share as of early 2026. So essentially drake is the most streamed artist in the world
@@ -77,7 +77,26 @@ Example: One Direction
 In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
 ![Alt text](gapminder_dashboard.png)
-A dashboard to Global Health Insights.
+A dashboard to show Global Health insights.
+
+Insights and Conclusions
+- Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
+- Japan have a higher much life expectancy trend that other countries
+- BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
+- Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients 
+
+**Practical Application**
+
+Example: NHS
+- NHS could promote aspects from Japanese lifestyle, such as healthier eating, exercise, sleep
+- NHS need to account for the higher population and longer life expectancy, recruiment schemes to hire more staff to keep up with demand
+
+## Power BI - Data Modelling and Visualising 
+
+Using Power BI was an interesting experience as it is an alternative way of handling and visualising Data. Where Tableau is more user-friendly, Power BI is more technical. For this project, I was tasked with creating a dashboard of visualisations. I received a dataset of Global Sales of a company called AdventureWorks. The dataset contained products, regions, proft and more. 
+
+![Alt text](advenpowerbidashboard.png)
+A dashboard to show AdventureWorks insights.
 
 Insights and Conclusions
 - Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
@@ -85,11 +104,7 @@ Insights and Conclusions
 - BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
 - Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients – need more staff to keep up with demands of population growth
 
-
-## Power BI - Data Modelling
-– Sample reports showing KPIs, slicers, and interactive visuals. 
-
-## SQL
+# SQL
 
 ## Python
 
