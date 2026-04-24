@@ -106,6 +106,7 @@ Insights and Conclusions
 - December 2017 saw peak revenue ($160k)
 - July 2017 ($50k) and January 2018 ($60k) were weak months for sales as sales dipped
 
+![Alt text](advensummarytablepng)
 
 
 **Practical Application**
