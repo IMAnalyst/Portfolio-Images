@@ -102,10 +102,11 @@ Using Power BI was an interesting experience as it is an alternative way of hand
 A dashboard to show AdventureWorks insights.
 
 Insights and Conclusions
-- Europe have the best life expectancy across continents; this is positive for the NHS because they are a European/British establishment/service.
-- Japan have a higher much life expectancy trend that other countries, what is the lifestyle of a average Japanese person, what could the NHS take from their lifestyle and promote it in the UK, such as healthier eating, exercise
-- BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
-- Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients – need more staff to keep up with demands of population growth
+- Top selling product in the Northeast Region in 2018 were the Bikes (1,439 units), making up nearly the entire revenue bar or North America ($1.2M)
+- December 2017 saw peak revenue ($160k)
+- July 2017 ($50k) and January 2018 ($60k) were weak months for sales as sales dipped
+
+
 
 **Practical Application**
 - 
