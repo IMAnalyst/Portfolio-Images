@@ -106,11 +106,12 @@ Insights and Conclusions
 - December 2017 saw peak revenue ($160k)
 - July 2017 ($50k) and January 2018 ($60k) were weak months for sales as sales dipped
 
-![Alt text](advensummarytablepng)
-
+![Alt text](advensummarytable.png)
 
 **Practical Application**
-- 
+- The spike in sales in December could be due to festive holidays/season: Christmas so increase stock around this time period
+- Low sales are in January (post christmas), which makes sense, so an action would be to reduce stock/marketing spends and hiring
+- Increase the inventory for Bikes because its the highest selling product
 
 # SQL
 
