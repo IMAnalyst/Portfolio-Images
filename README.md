@@ -18,6 +18,9 @@ I'm am an aspiring Data Analyst based in Birmingham, UK. I attended Nottingham T
 - Problem solving and Strategising
 
 ## Why is Data Important
+- Surge of Data in the Digital Age: Research shows that '402.74 million terabytes' of data is either created, consumed or captured daily, therefore it is important that this data is properly handled and also used strategically
+- Strategising and Decision Making: Discovering trends and gathering insights from data allows businesses to innovate and strategise
+- Growth: Data deepens a companies understanding of customer behavior, allowing them to measure performances for product sales and revenues
 
 ## Excel - Data Cleaning
 **Analysis of Bike Sales** 
@@ -103,6 +106,9 @@ Insights and Conclusions
 - Japan have a higher much life expectancy trend that other countries, what is the lifestyle of a average Japanese person, what could the NHS take from their lifestyle and promote it in the UK, such as healthier eating, exercise
 - BMI might not be the best measure for health in some circumstances, Sierra Leone has a low average BMI and a low life expectancy, there are external factors to consider
 - Population Growth hasn't had that much of an effect on life expectancy, people living longer -greater population – could lead to more patients – need more staff to keep up with demands of population growth
+
+**Practical Application**
+- 
 
 # SQL
 
