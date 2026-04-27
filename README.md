@@ -119,6 +119,15 @@ Insights and Conclusions
 ## SQL - Data Manipulation
 In this module. 
 
+SQL CODE to retrieve the Capital of Spain from the dataset
+```
+SELECT c.Name AS Country, c.Name AS Capital
+FROM country c
+INNER JOIN city ci
+ON c.Capital = ci.ID
+WHERE c.Name = 'Spain';
+```
+
 ## Python - Data Retrieval 
 
 ## Get in touch 
