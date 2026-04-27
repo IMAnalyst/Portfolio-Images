@@ -77,7 +77,8 @@ Example: One Direction
 
 **Project 2: Global Health Insights** 
 
-Link: https://public.tableau.com/app/profile/isaac.manning/viz/GHInsights-v1/Dashboard1?publish=yes 
+Link: 
+[Global Health Insight Dashboard](https://public.tableau.com/app/profile/isaac.manning/viz/GHInsights-v1/Dashboard1?publish=yes) 
 
 In this project, I was tasked with finding insights that could prove useful for the NHS and WHO (World Health Organisation). 
 
