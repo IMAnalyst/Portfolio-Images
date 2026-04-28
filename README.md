@@ -129,6 +129,17 @@ WHERE c.Name = 'Spain';
 ```
 ![Alt text](sql.png)
 
+SQL Querey showing filtering
+
+```
+SELECT Name, lifeexpectancy
+from country
+order by lifeexpectancy DESC
+LIMIT 1;
+
+```
+![Alt text](sql2.png)
+
 SQL Querey showing a range
 
 ```
