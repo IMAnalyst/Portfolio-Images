@@ -117,15 +117,23 @@ Insights and Conclusions
 - Increase the inventory for Bikes because its the highest selling product
 
 ## SQL - Data Manipulation
-In this module. 
+In this module, I learnt about structured and non-structural databases. I also learnt about primary keys, secondary keys and foreign keys and relationships between database schemas. 
 
-SQL CODE to retrieve the Capital of Spain from the dataset
+SQL Querey to retrieve the Capital of Spain from the dataset
 ```
 SELECT c.Name AS Country, c.Name AS Capital
 FROM country c
 INNER JOIN city ci
 ON c.Capital = ci.ID
 WHERE c.Name = 'Spain';
+```
+SQL Querey showing a range
+
+```
+SELECT Name, population
+from city
+where population > 500000 and population < 1000000
+
 ```
 
 ## Python - Data Retrieval 
