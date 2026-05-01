@@ -42,7 +42,7 @@ A powerful tool in excel is the ability to create visualisations from Pivot Tabl
 **Insights and Conclusions**
 
 - Adults (35-64) have the highest sales, most prominence in both United States (47 orders) and Australia (33 orders). Bikes have a stronger appeal to this age range, there are potentially more parents in this age range that possibily potential purchase bikes for the entire family compared to the younger ages.
-- Other research indicates that cycling has grown in popularity in the US, 'ovver 54.7 million Americans were recorded riding in 2023, a 6.4 increase from the previous year'
+- Other research indicates that cycling has grown in popularity in the US, 'over 54.7 million Americans were recorded riding in 2023, a 6.4 increase from the previous year'
 -  Environmental Factors, countries with higher populations produce more greenhouse gases. A lot of goverments encourage cycling to work schemes to reduce the production of greenhouse gases/carbon footprints.
 -  Important thing to consider, the age ranges are not the same, Adults has a greater age range (29) compared to Youth (25) and Young Adults (9)
 
